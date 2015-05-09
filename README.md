@@ -9,5 +9,5 @@ Working implementations of Google Code Jam problems.
 [Minimum scalar product]:https://code.google.com/codejam/contest/32016/dashboard#s=p0
 [Milkshakes]:https://code.google.com/codejam/contest/32016/dashboard#s=p1
 
-[a-minimum-scalar-product]:tree/master/2008/round1a/a-minimum-scalar-product
-[b-milkshakes]:tree/master/2008/round1a/b-milkshakes
+[a-minimum-scalar-product]:2008/round1a/a-minimum-scalar-product/a.py
+[b-milkshakes]:2008/round1a/b-milkshakes/b-large.py

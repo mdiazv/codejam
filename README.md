@@ -37,3 +37,15 @@ Working implementations of Google Code Jam problems.
 [oversized-pancake-flipper]:2017/qual/a/a.py
 [tidy-numbers]:2017/qual/b/b.c
 [bathroom-stalls]:2017/qual/c/c.py
+
+* 2017 Round 1A Problem A: [Alphabet Cake] / [alphabet-cake]
+* 2017 Round 1A Problem B: [Ratatouille] / [ratatouille][ratatouille-solution]
+* 2017 Round 1A Problem C: [Play the Dragon] / [play-the-dragon-small]
+
+[Alphabet Cake]:https://code.google.com/codejam/contest/5304486/dashboard#s=p0
+[Ratatouille]:https://code.google.com/codejam/contest/5304486/dashboard#s=p1
+[Play the Dragon]:https://code.google.com/codejam/contest/5304486/dashboard#s=p2
+
+[alphabet-cake]:2017/1a/a/a.c
+[ratatouille-solution]:2017/1a/b/b.c
+[play-the-dragon-small]:2017/1a/c/c.c

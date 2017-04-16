@@ -25,6 +25,21 @@ Working implementations of Google Code Jam problems.
 
 [text-message]:2008/round1c/a-text-message/a.py
 
+### 2009
+
+* 2009 Qualification Problem A: [Alien Language] / [alien-language]
+* 2009 Qualification Problem B: [Watersheds] / [watersheds][watersheds-solution]
+* 2009 Qualification Problem C: [Welcome to Code Jam] / [welcome-small] / [welcome-large]
+
+[Alien Language]:https://code.google.com/codejam/contest/90101/dashboard#s=p0
+[Watersheds]:https://code.google.com/codejam/contest/90101/dashboard#s=p1
+[Welcome to Code Jam]:https://code.google.com/codejam/contest/90101/dashboard#s=p2
+
+[alien-language]:2009/qual/a/a.py
+[watersheds-solution]:2009/qual/b/b.c
+[welcome-small]:2009/qual/c/c.hs
+[welcome-large]:2009/qual/c/c.c
+
 ### 2017
 * 2017 Qualification Problem A: [Oversized Pancake Flipper] / [oversized-pancake-flipper]
 * 2017 Qualification Problem B: [Tidy Numbers] / [tidy-numbers]

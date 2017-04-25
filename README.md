@@ -50,6 +50,26 @@ Some of the solutions were developed during the contests of the given year, some
 [welcome-small]:2009/qual/c/c.hs
 [welcome-large]:2009/qual/c/c.c
 
+### 2016
+
+###### Qualification Round
+
+* 2016 Qualification Problem A: [Counting Sheep] / [counting-sheep] / [counting-sheep-haskell]
+* 2016 Qualification Problem B: [Revenge of the Pancakes] / [revenge-of-the-pancakes]
+* 2016 Qualification Problem C: [Coin Jam] / [coin-jam]
+* 2016 Qualification Problem D: [Fractiles] / [fractiles][fractiles-solution]
+
+[Counting Sheep]:https://code.google.com/codejam/contest/6254486/dashboard#s=p0
+[Revenge of the Pancakes]:https://code.google.com/codejam/contest/6254486/dashboard#s=p1
+[Coin Jam]:https://code.google.com/codejam/contest/6254486/dashboard#s=p2
+[Fractiles]:https://code.google.com/codejam/contest/6254486/dashboard#s=p3
+
+[counting-sheep]:2016/qual/a-counting-sheep/a.py
+[counting-sheep-haskell]:2016/qual/a-counting-sheep/a.hs
+[revenge-of-the-pancakes]:2016/qual/b-revenge-of-the-pancakes/b.c
+[coin-jam]:2016/qual/c-coin-jam/c.py
+[fractiles-solution]:2016/qual/d-fractiles/d.py
+
 ### 2017
 
 ###### Qualification Round

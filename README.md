@@ -79,3 +79,18 @@ Some of the solutions were developed during the contests of the given year, some
 [alphabet-cake]:2017/1a/a/a.c
 [ratatouille-solution]:2017/1a/b/b.c
 [play-the-dragon-small]:2017/1a/c/c.c
+
+###### Round 1B
+
+* 2017 Round 1B Problem A: [Cruise Control] / [cruise-control]
+* 2017 Round 1B Problem B: [Stable Neigh-bors] / [stable-neighbors-small] / [stable-neighbors]
+* 2017 Round 1B Problem C: [Pony Express] / [pony-express]
+
+[Cruise Control]:https://code.google.com/codejam/contest/8294486/dashboard#s=p0
+[Stable Neigh-bors]:https://code.google.com/codejam/contest/8294486/dashboard#s=p1
+[Pony Express]:https://code.google.com/codejam/contest/8294486/dashboard#s=p2
+
+[cruise-control]:2017/1b/a/a.c
+[stable-neighbors-small]:2017/1b/b/b-small.c
+[stable-neighbors]:2017/1b/b/b.c
+[pony-express]:2017/1b/c/c-small.c

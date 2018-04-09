@@ -115,6 +115,14 @@ Some of the solutions were developed during the contests of the given year, some
 [stable-neighbors]:2017/1b/b/b.c
 [pony-express]:2017/1b/c/c-small.c
 
+###### Round 2
+
+* 2017 Round 2 Problem A: [Fresh Chocolate] / [fresh-chocolate]
+
+[Fresh Chocolate]:https://code.google.com/codejam/contest/5314486/dashboard#s=p0
+
+[fresh-chocolate]:2017/2/a/cheap.py
+
 ### 2018
 
 ###### Qualification Round

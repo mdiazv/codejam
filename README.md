@@ -114,3 +114,22 @@ Some of the solutions were developed during the contests of the given year, some
 [stable-neighbors-small]:2017/1b/b/b-small.c
 [stable-neighbors]:2017/1b/b/b.c
 [pony-express]:2017/1b/c/c-small.c
+
+### 2018
+
+###### Qualification Round
+
+* 2018 Qualification Problem A: [Saving The Universe Again] / [saving-the-universe-again]
+* 2018 Qualification Problem B: [Trouble Sort] / [trouble-sort]
+* 2018 Qualification Problem C: [Go, Gopher] / [go-gopher]
+* 2018 Qualification Problem C: [Cubic UFO (small)] / [cubic-ufo-small]
+
+[Saving The Universe Again]:https://codejam.withgoogle.com/2018/challenges/00000000000000cb/dashboard
+[Trouble Sort]:https://codejam.withgoogle.com/2018/challenges/00000000000000cb/dashboard/00000000000079cb
+[Go, Gopher]:https://codejam.withgoogle.com/2018/challenges/00000000000000cb/dashboard/0000000000007a30
+[Cubic UFO (small)]:https://codejam.withgoogle.com/2018/challenges/00000000000000cb/dashboard/00000000000079cc
+
+[saving-the-universe-again]:2018/qual/a/save.py
+[trouble-sort]:2018/qual/b/trouble.py
+[go-gopher]:2018/qual/c/gopher.py
+[cubic-ufo-small]:2018/qual/d/shadow-small.py

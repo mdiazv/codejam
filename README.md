@@ -118,10 +118,13 @@ Some of the solutions were developed during the contests of the given year, some
 ###### Round 2
 
 * 2017 Round 2 Problem A: [Fresh Chocolate] / [fresh-chocolate]
+* 2017 Round 2 Problem C: [Beaming With Joy] / [beaming-with-joy]
 
 [Fresh Chocolate]:https://code.google.com/codejam/contest/5314486/dashboard#s=p0
+[Beaming With Joy]:https://code.google.com/codejam/contest/5314486/dashboard#s=p2
 
 [fresh-chocolate]:2017/2/a/cheap.py
+[beaming-with-joy]:2017/2/c/lasers.py
 
 ### 2018
 

@@ -144,3 +144,11 @@ Some of the solutions were developed during the contests of the given year, some
 [trouble-sort]:2018/qual/b/trouble.py
 [go-gopher]:2018/qual/c/gopher.py
 [cubic-ufo-small]:2018/qual/d/shadow-small.py
+
+###### Round 1A
+
+* 2018 Round 1A Problem B: [Bit Party] / [bit-party]
+
+[Bit Party]:https://codejam.withgoogle.com/2018/challenges/0000000000007883/dashboard/000000000002fff6
+
+[bit-party]:2018/1a/b/party.py

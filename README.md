@@ -1,7 +1,7 @@
 # codejam
-Working implementations of Google Code Jam problems.
+My working solutions to Google Code Jam problems.
 
-I love Google Code Jam. Since 2009 I've participated, with different degree of success, every year. The reason I uploaded this code is mostly to keep track of which problems I have solved, and re-do some older problems to gauge the improvements since my first time facing them. Lots of solutions were lost while changing computers in the past, preventing this is the secondary reason.
+I love Google Code Jam. Since 2009 I've participated, with different degree of success, every year. The reason I uploaded this code is mostly to keep track of which problems I have solved, and re-do some older problems to gauge the improvements since my first time facing them. Lots of solutions were lost while changing computers in the past. Preventing that, is the secondary reason.
 
 Some of the solutions were developed during the contests of the given year, some others were done afterwards as training for future events. Expect little comments and some debug code lingering around. In competition, there's usually little time for cleanup.
 

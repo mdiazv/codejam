@@ -50,6 +50,14 @@ Some of the solutions were developed during the contests of the given year, some
 [welcome-small]:2009/qual/c/c.hs
 [welcome-large]:2009/qual/c/c.c
 
+###### Round 1C
+
+* 2009 Round 1C Problem B: [Center of Mass] / [center-of-mass]
+
+[Center of Mass]:https://code.google.com/codejam/contest/dashboard?c=189252#s=p1
+
+[center-of-mass]:2009/1c/b-center-of-mass/center.py
+
 ### 2016
 
 ###### Qualification Round

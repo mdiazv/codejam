@@ -52,12 +52,15 @@ Some of the solutions were developed during the contests of the given year, some
 
 ###### Round 1C
 
+* 2009 Round 1C Problem A: [All Your Base] / [all-your-base]
 * 2009 Round 1C Problem B: [Center of Mass] / [center-of-mass]
 * 2009 Round 1C Problem C: [Bribe the Prisoners] / [bribe-the-prisoners]
 
+[All Your Base]:https://code.google.com/codejam/contest/dashboard?c=189252#s=p0
 [Center of Mass]:https://code.google.com/codejam/contest/dashboard?c=189252#s=p1
 [Bribe the Prisoners]:https://code.google.com/codejam/contest/dashboard?c=189252#s=p2
 
+[all-your-base]:2009/1c/a-all-your-base/center.py
 [center-of-mass]:2009/1c/b-center-of-mass/center.py
 [bribe-the-prisoners]:2009/1c/c-bribe-the-prisoners/bribe.py
 

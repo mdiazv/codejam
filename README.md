@@ -147,7 +147,7 @@ Some of the solutions were developed during the contests of the given year, some
 * 2018 Qualification Problem A: [Saving The Universe Again] / [saving-the-universe-again]
 * 2018 Qualification Problem B: [Trouble Sort] / [trouble-sort]
 * 2018 Qualification Problem C: [Go, Gopher] / [go-gopher]
-* 2018 Qualification Problem C: [Cubic UFO (small)] / [cubic-ufo-small]
+* 2018 Qualification Problem D: [Cubic UFO (small)] / [cubic-ufo-small]
 
 [Saving The Universe Again]:https://codejam.withgoogle.com/2018/challenges/00000000000000cb/dashboard
 [Trouble Sort]:https://codejam.withgoogle.com/2018/challenges/00000000000000cb/dashboard/00000000000079cb
@@ -166,3 +166,36 @@ Some of the solutions were developed during the contests of the given year, some
 [Bit Party]:https://codejam.withgoogle.com/2018/challenges/0000000000007883/dashboard/000000000002fff6
 
 [bit-party]:2018/1a/b/party.py
+
+### 2019
+
+###### Qualification Round
+
+* 2019 Qualification Problem A: [Foregone Solution] / [foregone-solution]
+* 2019 Qualification Problem B: [You Can Go Your Own Way] / [your-own-way]
+* 2019 Qualification Problem C: [Cryptopangrams] / [cryptopangrams]
+
+[Foregone Solution]:https://codingcompetitions.withgoogle.com/codejam/round/0000000000051705/0000000000088231
+[You Can Go Your Own Way]:https://codingcompetitions.withgoogle.com/codejam/round/0000000000051705/00000000000881da
+[Cryptopangrams]:https://codingcompetitions.withgoogle.com/codejam/round/0000000000051705/000000000008830b
+
+
+[foregone-solution]:2019/qual/a/a.py
+[your-own-way]:2019/qual/b/b.py
+[cryptopangrams]:2019/qual/c/c.py
+
+###### Round 1A
+
+* 2019 Round 1A Problem A: [Pylons] / [pylons-solution]
+* 2019 Round 1A Problem B: [Golf Gophers] / [gophers] / [gophers-fast] / [gophers-faster] 
+* 2019 Round 1A Problem C: [Alien Rhyme] / [alien-rhyme]
+
+[Pylons]:https://codingcompetitions.withgoogle.com/codejam/round/0000000000051635/0000000000104e03
+[Golf Gophers]:https://codingcompetitions.withgoogle.com/codejam/round/0000000000051635/0000000000104f1a
+[Alien Rhyme]:https://codingcompetitions.withgoogle.com/codejam/round/0000000000051635/0000000000104e05
+
+[pylons-solution]:2019/1a/a/a.py
+[gophers]:2019/1a/b/b.py
+[gophers-fast]:2019/1a/b/b-fast.py
+[gophers-faster]:2019/1a/b/b-faster.py
+[alien-rhyme]:2019/1a/c/c.py

@@ -199,3 +199,42 @@ Some of the solutions were developed during the contests of the given year, some
 [gophers-fast]:2019/1a/b/b-fast.py
 [gophers-faster]:2019/1a/b/b-faster.py
 [alien-rhyme]:2019/1a/c/c.py
+
+### 2020
+
+###### Qualification Round
+
+* 2020 Qualification Problem A: [Vestigium] / [vestigium-py] / [vestigium-hs]
+* 2020 Qualification Problem B: [Nesting Depth] / [nesting-depth-py] / [nesting-depth-hs]
+* 2020 Qualification Problem C: [Parenting Partnering Returns] / [parenting-partnering]
+* 2020 Qualification Problem D: [ESAb ATAd] / [esab-atad]
+* 2020 Qualification Problem E: [Indicium] / [indicium-small]
+
+[Vestigium]:https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/000000000020993c
+[Nesting Depth]:https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/0000000000209a9f
+[Parenting Partnering Returns]:https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/000000000020bdf9
+[ESAb ATAd]:https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/0000000000209a9e
+[Indicium]:https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd27/0000000000209aa0
+
+[vestigium-py]:2020/qual/a/a.py
+[vestigium-hs]:2020/qual/a/a.hs
+[nesting-depth-py]:2020/qual/b/b.py
+[nesting-depth-hs]:2020/qual/b/b.hs
+[parenting-partnering]:2020/qual/c/c.py
+[esab-atad]:2020/qual/d/d.py
+[indicium-small]:2020/qual/e/e-small.py
+
+###### Round 1A
+
+* 2020 Round 1A Problem A: [Pattern Matching] / [pattern-matching]
+* 2020 Round 1A Problem B: [Pascal Walk] / [pascal-walk]
+* 2020 Round 1A Problem C: [Square Dance] / [square-dance-small]
+
+[Pattern Matching]:https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd74/00000000002b3034
+[Pascal Walk]:https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd74/00000000002b1353
+[Square Dance]:https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd74/00000000002b1355
+
+[pattern-matching]:2020/1a/a/a.py
+[pascal-walk]:2020/1a/b/b.py
+[square-dance-small]:2020/1a/c/c.py
+

@@ -1,78 +1,79 @@
 
+LEFT  = (-1, 0)
+RIGHT = ( 1, 0)
+UP    = ( 0,-1)
+DOWN  = ( 0, 1)
+DIRECTIONS = [LEFT, UP, RIGHT, DOWN]
+
 class Floor:
-    def __init__(self, R, C, M):
-        self.R = R
-        self.C = C
-        self.M = M
-        self.base_int = sum(M[i][j] for i in range(R) for j in range(C))
-        self.current_int = self.base_int
-        self.total_int = self.base_int
-        self.remaining = {(i, j): [(di, dj) for di, dj in [(0, 1), (1, 0), (-1, 0), (0, -1)]
-                                    if i+di >= 0 and j+dj >= 0 and i+di < R and j+dj < C
-                                        and di != dj and (di == 0 or dj == 0)
-                                  ] for i in range(R) for j in range(C)
-                         }
-        self.alive = R*C
+    def __init__(self, M, R, C):
+        self.M, self.R, self.C = M, R, C
+        self.gen = 1
+        self.base_score = sum(M[i][j] for i in range(R) for j in range(C))
+        self.current_score = self.base_score
+        self.total_score = self.base_score
+        self.remaining = {
+            (i, j): {(di, dj): (i+di, j+dj) for di, dj in DIRECTIONS if self.in_bounds(i+di, j+dj)}
+            for i in range(R) for j in range(C)
+        }
+        self.modified = set((i, j) for i in range(R) for j in range(C))
     def __repr__(self):
-        return "{}".format(self.remaining)
-
-    def ray(self, i, j, di, dj):
-        while (i+di, j+dj) not in self.remaining and i+di >= 0 and j+dj >= 0 and i+di < self.R and j+dj < self.C:
-            if di > 0:
-                di += 1
-            if di < 0:
-                di -= 1
-            if dj > 0:
-                dj += 1
-            if dj < 0:
-                dj -= 1
-        return (di, dj) if (i+di, j+dj) in self.remaining else (0, 0)
-
+        s = "Gen {}\n".format(self.gen)
+        s += "\n".join(" ".join(map(str, row)) for row in self.M)
+        s += "\nRemaining: "+repr(self.remaining)
+        s += "\nModified: "+repr(self.modified)
+        s += "\nScore - current:{} - total:{}".format(self.current_score, self.total_score)
+        return s
+    def in_bounds(self, i, j):
+        return i >= 0 and j >= 0 and i < self.R and j < self.C
+    def eliminated(self, i, j):
+        nbs = [M[ni][nj] for _, (ni, nj) in self.remaining[i, j].items()]
+        avg = sum(nbs) / len(nbs) if nbs else 0
+        return M[i][j] < avg
     def nextgen(self):
-        start = self.alive
-        V = [[0] * self.C for _ in range(self.R)]
-        elim = []
-        alone = []
-        for (i, j), nbs in self.remaining.items():
-            nnb = []
-            for nb in nbs:
-                di, dj = r = self.ray(i, j, *nb)
-                if r != (0, 0):
-                    nnb.append( (di, dj) )
-            if nnb:
-                avg = sum(M[i+di][j+dj] for di, dj in nnb) / len(nnb)
-                if M[i][j] < avg:
-                    elim.append( (i, j) )
-                self.remaining[i, j] = nnb
-            else:
-                # saved
-                alone.append( (i, j) )
-
-        for i, j in elim:
-            self.current_int -= M[i][j]
-            self.alive -= 1
-            del self.remaining[i, j]
-            M[i][j] = 0
-
-        for i, j in alone:
-            del self.remaining[i, j]
-
-        if self.alive == start:
+        modified, eliminated = set(), set()
+        for i, j in self.modified:
+            if self.eliminated(i, j):
+                eliminated.add( (i, j) )
+            
+        if not eliminated:
             return False
 
-        self.total_int += self.current_int
+        score = 0
+        for i, j in eliminated:
+            for d, nb in self.remaining[i, j].items():
+                inv = (-d[0], -d[1])
+                nbi = self.remaining[i, j].get(inv, None)
+                # update neighbors in both directions
+                if nbi:
+                    self.remaining[nbi][d] = nb
+                    self.remaining[nb][inv] = nbi
+                    modified.add(nb)
+                    modified.add(nbi)
+                elif inv in self.remaining[nb]:
+                    del self.remaining[nb][inv]
+                    modified.add(nb)
+
+            score += M[i][j]
+            M[i][j] = 0
+            del self.remaining[i, j]
+
+        self.current_score = self.base_score - score
+        self.base_score = self.current_score
+        self.total_score += self.current_score
+        self.modified = modified - eliminated
+        self.gen += 1
         return True
 
     def run(self):
         while self.nextgen():
             pass
-        return self.total_int
+        return self.total_score
 
 
 def total_interest(M, R, C):
-    F = Floor(R, C, M)
+    F = Floor(M, R, C)
     return F.run()
-
 
 T = int(input())
 for x in range(1, T+1):

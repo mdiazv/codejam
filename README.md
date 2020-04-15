@@ -228,7 +228,7 @@ Some of the solutions were developed during the contests of the given year, some
 
 * 2020 Round 1A Problem A: [Pattern Matching] / [pattern-matching]
 * 2020 Round 1A Problem B: [Pascal Walk] / [pascal-walk]
-* 2020 Round 1A Problem C: [Square Dance] / [square-dance-small]
+* 2020 Round 1A Problem C: [Square Dance] / [square-dance-small] / [square-dance]
 
 [Pattern Matching]:https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd74/00000000002b3034
 [Pascal Walk]:https://codingcompetitions.withgoogle.com/codejam/round/000000000019fd74/00000000002b1353
@@ -236,5 +236,6 @@ Some of the solutions were developed during the contests of the given year, some
 
 [pattern-matching]:2020/1a/a/a.py
 [pascal-walk]:2020/1a/b/b.py
-[square-dance-small]:2020/1a/c/c.py
+[square-dance]:2020/1a/c/c.py
+[square-dance-small]:2020/1a/c/c-slow.py
 

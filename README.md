@@ -187,7 +187,7 @@ Some of the solutions were developed during the contests of the given year, some
 ###### Round 1A
 
 * 2019 Round 1A Problem A: [Pylons] / [pylons-solution]
-* 2019 Round 1A Problem B: [Golf Gophers] / [gophers] / [gophers-fast] / [gophers-faster] 
+* 2019 Round 1A Problem B: [Golf Gophers] / [gophers] / [gophers-fast] / [gophers-faster]
 * 2019 Round 1A Problem C: [Alien Rhyme] / [alien-rhyme]
 
 [Pylons]:https://codingcompetitions.withgoogle.com/codejam/round/0000000000051635/0000000000104e03
@@ -239,3 +239,24 @@ Some of the solutions were developed during the contests of the given year, some
 [square-dance]:2020/1a/c/c.py
 [square-dance-small]:2020/1a/c/c-slow.py
 
+### 2021
+
+###### Qualification Round
+
+* 2021 Qualification Problem A: [Reversort] / [reversort]
+* 2021 Qualification Problem B: [Moons and Umbrellas] / [moons-and-umbrellas]
+* 2021 Qualification Problem C: [Reversort Engineering] / [reversort-engineering]
+* 2021 Qualification Problem D: [Median Sort] / [median-sort]
+* 2021 Qualification Problem E: [Cheating Detection] / [cheating-detection]
+
+[Reversort]:https://codingcompetitions.withgoogle.com/codejam/round/000000000043580a/00000000006d0a5c
+[Moons and Umbrellas]:https://codingcompetitions.withgoogle.com/codejam/round/000000000043580a/00000000006d1145
+[Reversort Engineering]:https://codingcompetitions.withgoogle.com/codejam/round/000000000043580a/00000000006d12d7
+[Median Sort]:https://codingcompetitions.withgoogle.com/codejam/round/000000000043580a/00000000006d1284
+[Cheating Detection]:https://codingcompetitions.withgoogle.com/codejam/round/000000000043580a/00000000006d1155
+
+[reversort]:2021/qual/a/a.py
+[moons-and-umbrellas]:2021/qual/b/b.py
+[reversort-engineering]:2021/qual/c/c.py
+[median-sort]:2021/qual/d/d.py
+[cheating-detection]:2021/qual/e/e.py

@@ -64,6 +64,23 @@ Some of the solutions were developed during the contests of the given year, some
 [center-of-mass]:2009/1c/b-center-of-mass/center.py
 [bribe-the-prisoners]:2009/1c/c-bribe-the-prisoners/bribe.py
 
+### 2010
+
+###### Qualification Round
+
+* 2010 Qualification Problem A: [Fair Warning] / [fair-warning]
+* 2010 Qualification Problem A: [Snapper Chain] / [snapper-chain]
+* 2010 Qualification Problem A: [Theme Park] / [theme-park-small] / [theme-park]
+
+[Fair Warning]:https://codingcompetitions.withgoogle.com/codejam/round/0000000000432b7e/00000000004330fd
+[Snapper Chain]:https://codingcompetitions.withgoogle.com/codejam/round/0000000000432b7e/0000000000432912
+[Theme Park]:https://codingcompetitions.withgoogle.com/codejam/round/0000000000432b7e/0000000000432f38
+
+[fair-warning]:2010/qual/a/a.py
+[snapper-chain]:2010/qual/b/b.py
+[theme-park-small]:2010/qual/c/c-small.py
+[theme-park]:2010/qual/c/c.py
+
 ### 2016
 
 ###### Qualification Round

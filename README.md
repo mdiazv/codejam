@@ -277,3 +277,27 @@ Some of the solutions were developed during the contests of the given year, some
 [reversort-engineering]:2021/qual/c/c.py
 [median-sort]:2021/qual/d/d.py
 [cheating-detection]:2021/qual/e/e.py
+
+###### Round 1A
+
+* 2021 Round 1A Problem A: [Append Sort] / [append-sort-small] / [append-sort]
+* 2021 Round 1A Problem B: [Prime Time] / [prime-time-small] / [prime-time-medium]
+
+[Append Sort]:https://codingcompetitions.withgoogle.com/codejam/round/000000000043585d/00000000007549e5
+[Prime Time]:https://codingcompetitions.withgoogle.com/codejam/round/000000000043585d/00000000007543d8
+
+[append-sort-small]:2021/1a/a/a-small.py
+[append-sort]:2021/1a/a/a.py
+[prime-time-small]:2021/1a/b/b-small.py
+[prime-time-medium]:2021/1a/b/b-medium.py
+
+###### Round 1C
+
+* 2021 Round 1C Problem A: [Closest Pick] / [closest-pick]
+* 2021 Round 1C Problem B: [Roaring Years] / [roaring-years]
+
+[Closest Pick]:https://codingcompetitions.withgoogle.com/codejam/round/00000000004362d7/00000000007c0f00
+[Roaring Years]:https://codingcompetitions.withgoogle.com/codejam/round/00000000004362d7/00000000007c0f01
+
+[closest-pick]:2021/1c/a/a.py
+[roaring-years]:2021/1c/b/b.py

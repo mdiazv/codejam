@@ -298,6 +298,18 @@ Some of the solutions were developed during the contests of the given year, some
 [prime-time-small]:2021/1a/b/b-small.py
 [prime-time-medium]:2021/1a/b/b-medium.py
 
+###### Round 1B
+
+* 2021 Round 1C Problem A: [Broken Clock] / [broken-clock-medium] / [broken-clock]
+* 2021 Round 1C Problem B: [Subtransmutation] / [subtransmutation-small]
+
+[Broken Clock]:https://codingcompetitions.withgoogle.com/codejam/round/0000000000435baf/00000000007ae694
+[Subtransmutation]:https://codingcompetitions.withgoogle.com/codejam/round/0000000000435baf/00000000007ae4aa
+
+[broken-clock-medium]:2021/1b/a/a-medium.py
+[broken-clock]:2021/1b/a/a.py
+[subtransmutation-small]:2021/1b/b/b-small.py
+
 ###### Round 1C
 
 * 2021 Round 1C Problem A: [Closest Pick] / [closest-pick]

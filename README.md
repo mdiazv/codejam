@@ -256,6 +256,13 @@ Some of the solutions were developed during the contests of the given year, some
 [square-dance]:2020/1a/c/c.py
 [square-dance-small]:2020/1a/c/c-slow.py
 
+###### Round 2
+
+* 2020 Round 2 Problem A: [Incremental House of Pancakes] / [incremental-house-of-pancakes]
+
+[Incremental House of Pancakes]:https://codingcompetitions.withgoogle.com/codejam/round/000000000019ffb9/00000000003384ea
+[incremental-house-of-pancakes]:2020/2/a/a.py
+
 ### 2021
 
 ###### Qualification Round

@@ -9,29 +9,40 @@ Some of the solutions were developed during the contests of the given year, some
 
 ### 2008
 
+###### Qualification Round
+
+* 2008 Qualification Round Problem A: [Saving the Universe] / [saving-the-universe]
+* 2008 Qualification Round Problem B: [Train Timetable] / [train-timetable]
+
+[Saving the Universe]:https://codingcompetitions.withgoogle.com/codejam/round/0000000000432b79/000000000043290d
+[Train Timetable]:https://codingcompetitions.withgoogle.com/codejam/round/0000000000432b79/000000000043290d
+
+[saving-the-universe]:2008/qual/a/a.py
+[train-timetable]:2008/qual/b/b.py
+
 ###### Round 1A
 
 * 2008 Round 1A Problem A: [Minimum scalar product] / [minimum-scalar-product]
 * 2008 Round 1A Problem B: [Milkshakes] / [milkshakes-small] / [milkshakes-large]
 * 2008 Round 1A Problem C: [Numbers] / [numbers-small] / [numbers-large]
 
-[Minimum scalar product]:https://code.google.com/codejam/contest/32016/dashboard#s=p0
-[Milkshakes]:https://code.google.com/codejam/contest/32016/dashboard#s=p1
-[Numbers]:https://code.google.com/codejam/contest/32016/dashboard#s=p2
+[Minimum scalar product]:https://codingcompetitions.withgoogle.com/codejam/round/00000000004330f6/0000000000432f33
+[Milkshakes]:https://codingcompetitions.withgoogle.com/codejam/round/00000000004330f6/0000000000433246
+[Numbers]:https://codingcompetitions.withgoogle.com/codejam/round/00000000004330f6/00000000004329f4
 
-[minimum-scalar-product]:2008/round1a/a-minimum-scalar-product/a.py
-[milkshakes-small]:2008/round1a/b-milkshakes/b-small.py
-[milkshakes-large]:2008/round1a/b-milkshakes/b-large.py
-[numbers-small]:2008/round1a/c-numbers/c-small.py
-[numbers-large]:2008/round1a/c-numbers/c-large.py
+[minimum-scalar-product]:2008/1a/a-minimum-scalar-product/a.py
+[milkshakes-small]:2008/1a/b-milkshakes/b-small.py
+[milkshakes-large]:2008/1a/b-milkshakes/b-large.py
+[numbers-small]:2008/1a/c-numbers/c-small.py
+[numbers-large]:2008/1a/c-numbers/c-large.py
 
 ###### Round 1C
 
 * 2008 Round 1C Problem A: [Text Message Outrage] / [text-message]
 
-[Text Message Outrage]:https://code.google.com/codejam/contest/32015/dashboard#s=p0
+[Text Message Outrage]:https://codingcompetitions.withgoogle.com/codejam/round/000000000043314d/0000000000432bd3
 
-[text-message]:2008/round1c/a-text-message/a.py
+[text-message]:2008/1c/a-text-message/a.py
 
 ### 2009
 

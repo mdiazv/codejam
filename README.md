@@ -351,3 +351,17 @@ Some of the solutions were developed during the contests of the given year, some
 [3d-printing]:2022/qual/b/b.py
 [d1000000-sol]:2022/qual/c/c.py
 [chain-reactions-small]:2022/qual/d/d.py
+
+##### Rounds 1A
+
+* 2022 Round 1A Problem A: [Double or One Thing] / [double-or-one-thing]
+* 2022 Round 1A Problem B: [Equal Sum] / [equal-sum]
+* 2022 Round 1A Problem C: [Weightlifting] / [weightlifting-small]
+
+[Double or One Thing]:https://codingcompetitions.withgoogle.com/codejam/round/0000000000877ba5/0000000000aa8e9c
+[Equal Sum]:https://codingcompetitions.withgoogle.com/codejam/round/0000000000877ba5/0000000000aa8fc1
+[Weightlifting]:https://codingcompetitions.withgoogle.com/codejam/round/0000000000877ba5/0000000000aa9280
+
+[double-or-one-thing]:2022/1a/a/a.py
+[equal-sum]:2022/1a/b/b.py
+[weightlifting-small]:2022/1a/c/c.py

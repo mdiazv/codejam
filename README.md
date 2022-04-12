@@ -278,7 +278,7 @@ Some of the solutions were developed during the contests of the given year, some
 
 ###### Qualification Round
 
-* 2021 Qualification Problem A: [Reversort] / [reversort]
+* 2021 Qualification Problem A: [Reversort] / [reversort-sol]
 * 2021 Qualification Problem B: [Moons and Umbrellas] / [moons-and-umbrellas]
 * 2021 Qualification Problem C: [Reversort Engineering] / [reversort-engineering]
 * 2021 Qualification Problem D: [Median Sort] / [median-sort]
@@ -290,7 +290,7 @@ Some of the solutions were developed during the contests of the given year, some
 [Median Sort]:https://codingcompetitions.withgoogle.com/codejam/round/000000000043580a/00000000006d1284
 [Cheating Detection]:https://codingcompetitions.withgoogle.com/codejam/round/000000000043580a/00000000006d1155
 
-[reversort]:2021/qual/a/a.py
+[reversort-sol]:2021/qual/a/a.py
 [moons-and-umbrellas]:2021/qual/b/b.py
 [reversort-engineering]:2021/qual/c/c.py
 [median-sort]:2021/qual/d/d.py

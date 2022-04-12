@@ -332,3 +332,22 @@ Some of the solutions were developed during the contests of the given year, some
 
 [closest-pick]:2021/1c/a/a.py
 [roaring-years]:2021/1c/b/b.py
+
+### 2022
+
+###### Qualification Round
+
+* 2022 Qualification Problem A: [Punched Cards] / [punched-cards]
+* 2022 Qualification Problem B: [3D Printing] / [3d-printing]
+* 2022 Qualification Problem C: [d1000000] / [d1000000-sol]
+* 2022 Qualification Problem D: [Chain Reactions] / [chain-reactions-small]
+
+[Punched Cards]:https://codingcompetitions.withgoogle.com/codejam/round/0000000000876ff1/0000000000a4621b
+[3D Printing]:https://codingcompetitions.withgoogle.com/codejam/round/0000000000876ff1/0000000000a4672b
+[d1000000]:https://codingcompetitions.withgoogle.com/codejam/round/0000000000876ff1/0000000000a46471
+[Chain Reactions]:https://codingcompetitions.withgoogle.com/codejam/round/0000000000876ff1/0000000000a45ef7
+
+[punched-cards]:2022/qual/a/a.py
+[3d-printing]:2022/qual/b/b.py
+[d1000000-sol]:2022/qual/c/c.py
+[chain-reactions-small]:2022/qual/d/d.py
